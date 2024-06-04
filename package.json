@@ -1,0 +1,13 @@
+{
+  "name": "i112advance-to-do-list",
+  "version": "2.0.1",
+  "description": "advance-To-Do List",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iqra tariq",
+  "license": "ISC"
+}
